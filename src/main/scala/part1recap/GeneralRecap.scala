@@ -1,4 +1,4 @@
-package part1recap.GeneralRecap
+package part1recap
 
 import scala.util.Try
 
